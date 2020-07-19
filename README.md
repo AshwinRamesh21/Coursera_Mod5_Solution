@@ -1,1 +1,1 @@
-# Coursera_Mod5_Solution
+# mod-5-solution
